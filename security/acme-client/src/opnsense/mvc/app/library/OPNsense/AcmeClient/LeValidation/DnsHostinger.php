@@ -1,9 +1,6 @@
 <?php
 
 /*
- * Copyright (C) 2020-2025 Frank Wall
- * Copyright (C) 2018 Deciso B.V.
- * Copyright (C) 2018 Franco Fichtner <franco@opnsense.org>
  * Copyright (c) 2026 Leandro Scardua
  * All rights reserved.
  *

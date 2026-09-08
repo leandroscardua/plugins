@@ -675,7 +675,7 @@
         <type>text</type>
     </field>
     <field>
-        <label>hostinger</label>
+        <label>Hostinger</label>
         <type>header</type>
         <style>table_dns table_dns_hostinger</style>
     </field>
